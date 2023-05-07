@@ -1,0 +1,11 @@
+C:\Users\gál\Desktop\PROGC#\Játékanevekkel\névsorsoló\bin\Debug\netcoreapp2.1\névsorsoló.deps.json
+C:\Users\gál\Desktop\PROGC#\Játékanevekkel\névsorsoló\bin\Debug\netcoreapp2.1\névsorsoló.runtimeconfig.json
+C:\Users\gál\Desktop\PROGC#\Játékanevekkel\névsorsoló\bin\Debug\netcoreapp2.1\névsorsoló.runtimeconfig.dev.json
+C:\Users\gál\Desktop\PROGC#\Játékanevekkel\névsorsoló\bin\Debug\netcoreapp2.1\névsorsoló.dll
+C:\Users\gál\Desktop\PROGC#\Játékanevekkel\névsorsoló\bin\Debug\netcoreapp2.1\névsorsoló.pdb
+C:\Users\gál\Desktop\PROGC#\Játékanevekkel\névsorsoló\obj\Debug\netcoreapp2.1\névsorsoló.csprojAssemblyReference.cache
+C:\Users\gál\Desktop\PROGC#\Játékanevekkel\névsorsoló\obj\Debug\netcoreapp2.1\névsorsoló.csproj.CoreCompileInputs.cache
+C:\Users\gál\Desktop\PROGC#\Játékanevekkel\névsorsoló\obj\Debug\netcoreapp2.1\névsorsoló.AssemblyInfoInputs.cache
+C:\Users\gál\Desktop\PROGC#\Játékanevekkel\névsorsoló\obj\Debug\netcoreapp2.1\névsorsoló.AssemblyInfo.cs
+C:\Users\gál\Desktop\PROGC#\Játékanevekkel\névsorsoló\obj\Debug\netcoreapp2.1\névsorsoló.dll
+C:\Users\gál\Desktop\PROGC#\Játékanevekkel\névsorsoló\obj\Debug\netcoreapp2.1\névsorsoló.pdb
